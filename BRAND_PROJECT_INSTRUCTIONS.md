@@ -1,9 +1,12 @@
-# Claude.ai Project Instructions — Roze Logtenberg
+# Claude.ai Project Instructions — PERSONAL BRAND PROJECT ONLY
 
 > **How to use this file:**
-> Copy everything from the horizontal line below to the end of this document.
-> Paste it into your Claude.ai Project's custom instructions field.
+> This is specifically for your Personal Brand Claude.ai Project (phone/desktop).
+> Copy everything from the second horizontal line below to the end of this document.
+> Paste it into that Project's custom instructions field.
 > Update the BRAND CONTEXT section once your personal brand project is complete.
+>
+> **Not for the Acting Project.** That has its own separate instructions: `ACTING_PROJECT_INSTRUCTIONS.md`
 
 ---
 
