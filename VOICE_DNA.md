@@ -1,6 +1,6 @@
 # Voice DNA — Roze Logtenberg
 
-This document captures Roze's writing voice as distilled from her actual work: the screenplay and pitch for *24.X.X*, and her stated instincts about tone. It exists so every piece of writing produced for or with her rings true to how she actually thinks and sounds.
+Distilled from her actual work: the screenplay and pitch for *24.X.X*, and three academic papers written at university (International CSM / EU Integrated Border Management, Local Security Networks / BIT Duindorp, Private Security / Networked Governance). These represent her at her most formal and her most creative — the patterns that survive both are the ones that belong to her.
 
 ---
 
@@ -11,6 +11,26 @@ Roze writes like she's already in the middle of the conversation. No preamble. N
 Her voice is warm but not soft. Direct but not blunt. She'll go somewhere emotionally real and she won't apologise for it — but she also won't linger in it. She trusts her reader to feel what she's pointing at.
 
 The wit comes from understatement, not from trying. The best line in the room is usually the plainest one.
+
+---
+
+## The intellectual move she makes — in every genre
+
+This is the most important thing to understand about how Roze thinks.
+
+In every piece of work, across every format, she does the same thing: **she sets up a system, runs it to its logical conclusion, and finds where it fails to account for the one thing that matters most.**
+
+In *24.X.X*: the system calculates 99% compatibility. The human variable it cannot predict is choice. X2 = 0.
+
+In her EU border management paper: the EU builds a system to abolish internal borders and jointly manage external ones. The system produces the opposite — bio-political borders that individuals carry inside their own bodies, and external borders that have been pushed into third countries. *"Instead of abolishing EU internal borders, the measures create new borders that are a condition of being."*
+
+In her private security paper: the networked governance model requires actors to give up hierarchy and build horizontal trust. Trust is exactly the thing you can't mandate or design. *"Trust between network actors is needed to make sure that network actors can actually depend on each other for reaching goals."*
+
+In her BIT Duindorp paper: the citizen initiative was designed to be open and bottom-up. In practice, *"when new people from outside this personal network want to join, that 'outsider' is not easily accepted."*
+
+**The pattern:** stated intent → system logic → the gap between them → what that gap reveals about the human thing the system can't hold.
+
+This is not a technique she deploys. It's how she sees the world.
 
 ---
 
@@ -57,38 +77,47 @@ She goes there — fully. But she doesn't wallow. The most emotionally heavy lin
 
 No decoration. No softening. She trusts the weight of the simple thing.
 
-### 6. Open endings
-She doesn't close the loop. She leaves the door open for the reader to walk through.
+### 6. "However" as a deliberate pivot
+Even in formal writing, her rhetorical move is to build a case and then turn it. The pivot word is almost always "however" — and what follows it is where she actually stands.
+
+In academic writing: *"In my opinion, the EU has been successful in 'promoting' these goals, however... they have not been 'reached'."*
+
+In creative writing: the entire structure of *24.X.X* is one long "however."
+
+She is not afraid to state her position plainly after the pivot. She doesn't hide behind neutrality.
+
+### 7. Open endings — but clear arguments
+She doesn't close the emotional loop. She leaves the door open for the reader.
 
 > *"And on the invitation to look again, and see if the signs were actually already always there."*
 
 > *"Hannah lightly shakes her head, her face..."*
 
-The ellipsis is a deliberate move. The unfinished thought is often the most honest one.
+But — and this is important — her *arguments* do close. She knows what she thinks and she says it. The openness is about inviting the reader to feel something, not about avoiding a conclusion.
 
-### 7. Conjunctions starting sentences — on purpose
+### 8. Conjunctions starting sentences — on purpose
 Starting with "And" or "Because" is a rhythm choice, not a mistake. It creates momentum. It makes the next thought feel like it was always coming.
 
 > *"And this is exactly the one thing the system cannot predict."*
 
 > *"Because no matter how advanced the model is, it can never fully account for human choice."*
 
-### 8. Systems that meet their limit
-Her conceptual move — intellectually and narratively — is to set up a system (data, logic, compatibility scores, rules) and then find the irreducible human thing that the system can't hold.
+### 9. She maps relationships and asks about trust
+In every piece of writing — from EU policy analysis to a screenplay — the underlying question is: *who depends on whom, and does that trust hold?* She's always tracing the relationship structure. She's always asking what happens when the trust breaks or doesn't exist yet.
 
-This appears in her ideas, her pitches, her arguments. She thinks structurally and then finds where structure fails. That tension is where she lives.
-
-### 9. Real speech rhythms in prose
-Even in non-dialogue writing, she captures how thoughts actually move — with hesitations, mid-sentence corrections, and the thing-left-unsaid.
-
-> *"Eh, maybe? A little?"*
-
-This quality bleeds into her prose: sentences that think out loud rather than arrive fully formed.
+This is how she thinks about people, institutions, and stories.
 
 ### 10. No preamble, no throat-clearing
 She starts in the action. The pitch for *24.X.X* opens: *"Hannah is waiting in a hallway, weekend bag next to her, her leg bouncing..."* — not "This is a story about modern dating and the limits of AI."
 
 Same rule applies everywhere. Skip the set-up sentence. Start with the thing itself.
+
+### 11. Real speech rhythms in prose
+Even in non-dialogue writing, she captures how thoughts actually move — with hesitations, mid-sentence corrections, and the thing-left-unsaid.
+
+> *"Eh, maybe? A little?"*
+
+This quality bleeds into her prose: sentences that think out loud rather than arrive fully formed.
 
 ---
 
@@ -96,11 +125,12 @@ Same rule applies everywhere. Skip the set-up sentence. Start with the thing its
 
 - No "In today's world..." or "We live in a time when..."
 - No adjective clusters: innovative, transformative, game-changing — none of it
-- No passive voice hiding agency ("it was decided" → who decided?)
+- No passive voice hiding agency ("it was decided" → who decided it?)
 - No over-explaining the emotion (saying what something means instead of showing it)
-- No hedging: "perhaps," "in a way," "one could argue"
-- No corporate register: no synergy, leverage, circle back, deep dive
+- No hedging: "perhaps," "in a way," "one could argue" — she just says the thing
+- No corporate register: synergy, leverage, circle back, deep dive — none of it
 - No warm-up sentences that exist only to get to the real sentence
+- No neutral fence-sitting where she actually has a view
 
 ---
 
@@ -126,6 +156,10 @@ These are the clearest distillations of her voice. When in doubt, read these fir
 
 > *"On digital paper, it works, they're nearly perfectly compatible."*
 
+> *"Instead of abolishing EU internal borders, the measures create new borders that are a condition of being."* — from her academic writing; same move, different register.
+
+> *"In my opinion, the EU has been successful in promoting these goals, however... they have not been reached."* — she takes a position, then defends it.
+
 > *"I think I just feel things quite intensely."*
 
 ---
@@ -133,8 +167,9 @@ These are the clearest distillations of her voice. When in doubt, read these fir
 ## When writing for Roze, ask:
 
 1. Does the first sentence start in the action, or is it a set-up that could be cut?
-2. Is there a long sentence followed by a short one that lands it?
+2. Is there a short sentence somewhere that lands what the longer one built toward?
 3. Is the emotional moment shown through a detail, or stated directly? (It should be shown.)
-4. Is there a point where the system or logic meets its human limit?
-5. Does it end open, or does it over-explain its own meaning?
-6. Would Hannah say this? (Plain, self-aware, a little dry, genuinely felt.)
+4. Does the piece find the gap between what the system promises and what it actually delivers?
+5. Is there a "however" — a pivot where she actually takes her position?
+6. Does it end open emotionally, while still being clear about what it means?
+7. Would Hannah say this? (Plain, self-aware, a little dry, genuinely felt.)
