@@ -14,10 +14,22 @@ PROFILE = {
     ],
     "location_terms": [
         "london", "greater london",
-        # Key London areas / postcodes that might appear without "London"
+        # London areas that might appear without the word "London"
         "hackney", "shoreditch", "camden", "brixton", "islington",
         "peckham", "dalston", "bethnal green", "soho", "whitechapel",
         "clapham", "stratford", "greenwich", "southwark", "lambeth",
+        "hoxton", "bermondsey", "elephant", "waterloo", "victoria",
+        "shepherd's bush", "notting hill", "kentish town", "stoke newington",
+        # UK-wide — included because she's open to UK shoots
+        "uk", "united kingdom", "england", "british",
+    ],
+    # Cities to reject — if a post is explicitly set in one of these
+    # and doesn't also mention London, it's not worth her travelling
+    "excluded_locations": [
+        "manchester", "birmingham", "leeds", "liverpool", "edinburgh",
+        "glasgow", "bristol", "sheffield", "cardiff", "belfast",
+        "newcastle", "nottingham", "brighton", "oxford", "cambridge",
+        "coventry", "leicester", "reading", "southampton", "portsmouth",
     ],
     # Skills with bonus point values — higher = rarer / more distinctive
     "skills_bonus": {
