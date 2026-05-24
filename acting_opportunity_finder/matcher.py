@@ -14,15 +14,37 @@ def is_casting_call(text: str) -> bool:
         "submissions open", "submitting for", "accepting submissions",
         "come audition", "casting director", "#castingcall", "#casting",
         "auditions now", "audition date", "filming", "short film cast",
-        "feature film cast",
+        "feature film cast", "female lead needed", "lead actress needed",
+        "actress needed", "looking for a female", "apply now", "apply below",
+        "dm to apply", "email to apply", "link in bio", "drop your",
+        "#actorswanted", "#actressneeded", "#filmmaking", "#indiefilm",
+        "#shortfilm", "#studentfilm",
     ]
     t = text.lower()
     return any(p in t for p in phrases)
 
 
 def check_location(text: str) -> bool:
+    """
+    Pass if:
+    - London or a UK location term is mentioned, OR
+    - No location is mentioned at all (the search query already targeted London,
+      so no-location posts are likely London-based)
+    Fail only if another UK city is explicitly named without any London mention.
+    """
     t = text.lower()
-    return any(term in t for term in PROFILE["location_terms"])
+
+    london_mentioned = any(term in t for term in PROFILE["location_terms"])
+    if london_mentioned:
+        return True
+
+    # Explicitly elsewhere in the UK — reject
+    excluded = PROFILE["excluded_locations"]
+    if any(city in t for city in excluded):
+        return False
+
+    # No location mentioned — pass (search queries already targeted London)
+    return True
 
 
 def check_gender(text: str) -> bool:
