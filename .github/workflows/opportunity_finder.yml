@@ -2,7 +2,8 @@ name: Acting Opportunity Finder
 
 on:
   schedule:
-    # Runs daily at 9am BST / 10am CEST (8am UTC)
+    # 8am UTC = 9am London (BST, summer). In winter GMT = UTC so also 8am London.
+    # Change to '0 7 * * *' in winter if you want 8am London year-round.
     - cron: '0 8 * * *'
   workflow_dispatch:
     inputs:

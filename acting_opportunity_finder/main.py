@@ -11,7 +11,6 @@ import logging
 import sys
 from datetime import datetime, timedelta, timezone
 
-from .casting_sites import scrape_all as scrape_casting_sites
 from .matcher import score_match
 from .notifier import send_email
 from .search import search as ddg_search
@@ -47,12 +46,9 @@ def run(skip_dedup: bool = False, dry_run: bool = False) -> int:
     logger.info("=== Acting Opportunity Finder ===")
     logger.info("Filters: London | Female/non-binary | Age 26–37 | Last %d days", DAYS_CUTOFF)
 
-    # Gather from all sources
-    logger.info("--- Searching social media & web ---")
+    # Search social media — Instagram, Threads, LinkedIn, TikTok, Facebook
+    logger.info("--- Searching social media ---")
     raw = ddg_search(timelimit="w")
-
-    logger.info("--- Scraping UK casting sites ---")
-    raw += scrape_casting_sites()
 
     logger.info("Total raw results: %d", len(raw))
 
