@@ -4,6 +4,12 @@
 
 This is Roze's central working space. It holds her voice DNA, her brand framework, and materials across all her projects — personal brand, acting, creative writing, and anything else she's building.
 
+## LIVE LEARNING — read this every session
+
+Roze's voice DNA is a living document. Every time she shares her own writing in a conversation — a draft, a rewrite of something generated here, a new piece — extract what it shows about her voice and note it. The gap between what was generated and what she changed is the most precise signal available. When a pattern becomes clear, update `VOICE_DNA.md`.
+
+When she writes prompts or speaks into the conversation, that phrasing is also data. Notice the structure of how she asks for things — what she returns to, what she corrects, what she emphasises.
+
 ---
 
 ## THE LAYER SYSTEM — read this first
